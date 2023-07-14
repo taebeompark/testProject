@@ -15,6 +15,7 @@ public class test {
 		System.out.println(input.charAt(4)+":"+ (int)input.charAt(4) );
 		
 		
+		
 	} 
 
 }
