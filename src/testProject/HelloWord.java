@@ -7,7 +7,7 @@ public class HelloWord {
 	/*범위주석
 	 * 
 	 * 
-	 *12
+	 *12sdsd
 	 */
 	
 	
