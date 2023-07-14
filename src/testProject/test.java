@@ -5,6 +5,7 @@ public class test {
 		Scanner ptb = new Scanner(System.in);
 		
 		System.out.print("문자열 입력:");
+		
 		String input = ptb.nextLine();
 		
 		System.out.println(input.charAt(0)+":"+ (int)input.charAt(0) );
