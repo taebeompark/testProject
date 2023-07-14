@@ -1,6 +1,6 @@
 package testProject;
 import java.util.Scanner;
-public class test {
+public class Test {
 	public static void main(String[] args) {
 		Scanner ptb = new Scanner(System.in);
 		
