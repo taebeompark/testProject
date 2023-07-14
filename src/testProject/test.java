@@ -13,6 +13,7 @@ public class test {
 		System.out.println(input.charAt(3)+":"+ (int)input.charAt(3) );
 		System.out.println(input.charAt(4)+":"+ (int)input.charAt(4) );
 		
-	}
+		
+	} 
 
 }
